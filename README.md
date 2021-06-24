@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Puspender Kumar Yadav  
-[![Twitter Badge](https://img.shields.io/badge/-@puspenderkry-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/puspenderkry)](https://twitter.com/puspenderkry) [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/puspender-kr-yadav-188ba81b6/)](https://www.linkedin.com/in/puspender-kr-yadav-188ba81b6/)
+[![Twitter Badge](https://img.shields.io/badge/-@puspenderkry-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/puspenderkry)](https://twitter.com/puspenderkry) [![Linkedin Badge](https://img.shields.io/badge/-puspender-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/puspender-kr-yadav-188ba81b6/)](https://www.linkedin.com/in/puspender-kr-yadav-188ba81b6/)
 [![Gmail Badge](https://img.shields.io/badge/-puspenderkr2k@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:puspenderkr2k@gmail.com)](mailto:puspenderkr2k@gmail.com)
 
 ### Hi there 👋
