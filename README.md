@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a CS student at MJPRU Unversity.
-- 📚 I’m currently learning  backend web development using React, NodeJS, ExpressJS and MongoDB.
+- 🔭 I’m currently a final year CSE student at MJPRU Unversity.
+- 📚 I’m currently exploring and learning DevOps .
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/puspender-kr-yadav-188ba81b6/) [Gmail](mailto:puspenderkr2k@gmail.com)
 
